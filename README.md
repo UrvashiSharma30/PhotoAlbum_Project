@@ -18,3 +18,6 @@
 ## Font 
 
 - https://fonts.google.com/specimen/Press+Start+2P?query=press
+
+## Hosted URL
+- https://retrogallery.netlify.app/
