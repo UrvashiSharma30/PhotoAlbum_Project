@@ -7,7 +7,7 @@ window.onload = function () {
     window.location.href = "./";
   }
   fetch(
-    `http://api.unsplash.com/photos/${search_params.get(
+    `https://api.unsplash.com/photos/${search_params.get(
       "id"
     )}?client_id=${API_KEY}`
   )
